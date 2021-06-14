@@ -91,7 +91,7 @@
         <hazelcast.aws.version>3.3</hazelcast.aws.version>
         <hazelcast.kubernetes.version>2.2.2</hazelcast.kubernetes.version>
         <hazelcast.gcp.version>2.1</hazelcast.gcp.version>
-        <hazelcast.azure.version>2.1</hazelcast.azure.version>
+        <hazelcast.azure.version>2.1.2</hazelcast.azure.version>
 
         <!-- Third-party dependencies (sorted alphabetically) -->
         <!--<affinity.version>3.2.3</affinity.version>-->
